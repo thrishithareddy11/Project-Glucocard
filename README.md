@@ -15,6 +15,21 @@ Glucocard is a computational drug discovery framework developed to identify natu
 | **Berberine** | **-8.4 kcal/mol** | **Potent Inhibitor** |
 | **Acarbose** | **-6.2 kcal/mol** | Standard Drug |
 
+## 📝 Project Results
+
+### **Summary of Analysis**
+The automated pipeline successfully screened potential inhibitors for Alpha-glucosidase. The lead candidate, **Berberine**, demonstrated superior drug-likeness compared to traditional controls.
+
+**Final Data Points:**
+* **Target Protein:** 3W37 (Alpha-glucosidase)
+* **Lead Molecule:** Berberine
+* **Best Binding Score:** -8.4 kcal/mol
+* **Lipinski's Rule of 5:** 100% Compliance
+  
+### **Key Conclusion**
+Based on the binding energy of **-8.4 kcal/mol**, Berberine shows a significantly higher affinity for the target enzyme (Alpha-glucosidase) than the traditional drug Acarbose. This suggests it has high potential as a natural therapeutic agent for Type-2 Diabetes management.
+
+
 ##  Tech Stack:
 - **Language:** Python
 - **Database:** PubChem
