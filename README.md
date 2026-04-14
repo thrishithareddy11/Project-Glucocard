@@ -41,7 +41,9 @@ The project integrates rule-based evaluation with real molecular data to underst
 - Berberine showed favorable drug-likeness properties  
 - Acarbose exceeded some Lipinski thresholds  
 - Computational screening helps in early filtering of drug candidates
-(./output_log.txt)  
+
+* **[Click here to view the Screening Output Log (output_log.txt)](./output_log.txt)**
+
 
 ---
 
